@@ -8,10 +8,7 @@ This project presents a simple but well-structured analysis of stock prices usin
 - [Technologies Used](#technologies-used)
 - [Data](#data)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results & Visualizations](#results--visualizations)
-- [License](#license)
 
 ## Project Overview
 
